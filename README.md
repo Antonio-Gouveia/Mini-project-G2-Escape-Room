@@ -1,4 +1,4 @@
-# 🧩 Escape Room - Mini Project (Group 2)
+# 🧩 Escape Room - Mini Project (Group 2: António Gouveia, Elba Grosso Sheridan, Miguel Florindo and Sofia Scomazzon)
 
 Welcome to **Escape Room**, a text-based adventure game developed as part of the **Python Analytics Quest** during the **Data Analytics Bootcamp at IronHack**.
 
